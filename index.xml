@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>曼妙时光</title>
+    <link>http://louisqiao.github.io/</link>
+    <description>Recent content on 曼妙时光</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Mon, 05 Dec 2016 22:05:22 +0800</lastBuildDate>
+    <atom:link href="http://louisqiao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>我的第一篇胡搞博客</title>
+      <link>http://louisqiao.github.io/categories/%E6%8A%80%E6%9C%AF/hugo-quick-start/</link>
+      <pubDate>Mon, 05 Dec 2016 22:05:22 +0800</pubDate>
+      
+      <guid>http://louisqiao.github.io/categories/%E6%8A%80%E6%9C%AF/hugo-quick-start/</guid>
+      <description>
+
+&lt;h1 id=&#34;胡搞第一篇博客写点什么&#34;&gt;胡搞第一篇博客写点什么？&lt;/h1&gt;
+
+&lt;p&gt;我也不知道啊&lt;/p&gt;
+
+&lt;p&gt;明天再说~&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>关于司徒乔</title>
+      <link>http://louisqiao.github.io/about/</link>
+      <pubDate>Mon, 05 Dec 2016 18:37:03 +0800</pubDate>
+      
+      <guid>http://louisqiao.github.io/about/</guid>
+      <description>&lt;p&gt;1 关于我&lt;/p&gt;
+
+&lt;p&gt;我网名叫兰陵昕云，也叫兰陵子。兰陵来源于我的姓氏蕭，蕭姓起源于山东兰陵，所以也称为兰陵氏。但某机关因简化字的原因登记身份证蕭几乎都统一变成了肖，而肖并不是蕭的简化。网名取名在2005年，一直使用到今天，也是为了纪念失去的蕭姓。我目前是一名软件系统架构师，平时喜欢写写代码，对编程是不离不弃。&lt;/p&gt;
+
+&lt;p&gt;1.1 工作经历&lt;/p&gt;
+
+&lt;p&gt;2004-2005 ESPNStar中文网，软件工程师。
+2005-至今 华为技术有限公司，系统架构师，目前从事PaaS平台的设计与开发。
+1.2 工作荣誉&lt;/p&gt;
+
+&lt;p&gt;华为金牌团队
+华为金牌个人
+华为明日之星
+电软核十大卓越程序员
+电软50强博主
+优秀质量个人
+电软平台DU首席编程
+1.3 工作技能&lt;/p&gt;
+
+&lt;p&gt;编程语言：C++, Python, 近期：Java, Go
+擅长领域：PaaS, Docker
+2 关于本站&lt;/p&gt;
+
+&lt;p&gt;本站为我的个人博客，主要是个人思考、读书笔记与技术分享。受工作环境原因，之前在公司外面总结写作比较少，从10年在公司的Hi3MS上陆续发表工作中一些的总结，累计也有160+篇的技术博文。现域名注册于2015年，开始在此域名利用周未时间写点东西。部分文章是之前个人笔记本中一些历史记录，以及从09年在CSDN上写的一些技术分享的导入。 蘭陵N散記 意为 蘭陵昕云 的散记，信手而写。N代表 n! ，为阶乘符号，意为个人要多写作，文章的内容与质量也是阶乘地增涨。其实个人比较懒，写作水平也有限，自勉之吧！&lt;/p&gt;
+
+&lt;p&gt;2.1 内容&lt;/p&gt;
+
+&lt;p&gt;网络是社会化的，现实中与网络中必须保持一致。我可能会犯一些错误，如标点、错别字、链接错误，但一旦发现我会尽快纠正。博文也涉及到个人一些从业思考，由于个人水平有限，观点可能偏激，不正确，与您的观点相孛，我会收到您的建议之后，一起探讨与修正。&lt;/p&gt;
+
+&lt;p&gt;2.2 声明&lt;/p&gt;
+
+&lt;p&gt;本博客作品采用创作共享3.0许可证：自由转载-非商用-非衍生-保持署名。&lt;/p&gt;
+
+&lt;p&gt;本博客文章皆为原创，文章中可能会引用其它作者的一些内容，一般会指出引用出处，如果您认为本站的文章有侵犯版权请及时联系我，并出示版权证明，我将在24小时内删除。&lt;/p&gt;
+
+&lt;p&gt;本站内容若未特别声明，皆遵循创作共用协议，这意味着您可以将本站文章用于非盈利目的，但请保留作者信息及文章原始链接。如果您需要将文章用于商业目的，请联系我获得授权，谢谢合作。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

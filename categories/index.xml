@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 曼妙时光</title>
+    <link>http://louisqiao.github.io/categories/</link>
+    <description>Recent content in Categories on 曼妙时光</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Mon, 05 Dec 2016 22:05:22 +0800</lastBuildDate>
+    <atom:link href="http://louisqiao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>我的第一篇胡搞博客</title>
+      <link>http://louisqiao.github.io/categories/%E6%8A%80%E6%9C%AF/hugo-quick-start/</link>
+      <pubDate>Mon, 05 Dec 2016 22:05:22 +0800</pubDate>
+      
+      <guid>http://louisqiao.github.io/categories/%E6%8A%80%E6%9C%AF/hugo-quick-start/</guid>
+      <description>
+
+&lt;h1 id=&#34;胡搞第一篇博客写点什么&#34;&gt;胡搞第一篇博客写点什么？&lt;/h1&gt;
+
+&lt;p&gt;我也不知道啊&lt;/p&gt;
+
+&lt;p&gt;明天再说~&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
